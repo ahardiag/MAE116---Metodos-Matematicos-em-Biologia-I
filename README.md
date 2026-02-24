@@ -52,22 +52,19 @@ Programas e Notebooks: pasta [notebooks](./notebooks)
 | 30/03    | Semana 3 | Exercícios Sequências <br> Teorema do confronto, sequências monotonas, teorema da sequências monotonas|
 | 06/04    | Semana 4 | **Prova 1**<br>Limite de funções,  propriedade dos limites<br>Exercícios Limite |
 | 13/04    | Semana 5 | Limites infinitas, limites laterais, teorêmas, asintotas<br>Exercícios Limite|
-| 20/04    | Semana 6 | Continuidade duma função : Definição, esquerda/direita e intervalo, teoremas 
-
-
-da composição, teorema dos valores intermediaros<br>Exercícios Continuidade<br>Derivadas e taxa de variação, tangentes e representações gráficas|
-| 27/04    | Semana 7 | Exercícios taxa de variaçã<br>Regras da derivação (produto,quociente e rega da cadeia )<>erivadas de funções usuais, População de baterias, crescimento exponenciais|
-| 04/05    | Semana 8 | **Prova 2** |
-| 11/05    | Semana 9 | Técnicas de integração |
-| 18/05    | Semana 10 | Aplicações da integral |
-| 25/05    | Semana 11 | Equações diferenciais |
-| 01/06    | Semana 12 | Equações homogêneas e não homogêneas |
-| 08/06    | Semana 13 | **Prova 3** |
-| 15/06    | Semana 14 | Evolução de populações |
-| 22/06    | Semana 15 | Equações não lineares |
-| 29/06    | Semana 16 | **Prova 4** |
-| 06/07    | Semana 17 | Revisão |
-| 13/07    | Semana 18 | Revisão final |
+| 20/04    | Semana 6 | Continuidade duma função : Definição, esquerda/direita e num intervalo, composição<br>Teorema dos valores intermediaros<br>Exercícios Continuidade<br>Derivadas e taxa de variação, tangentes e representações gráficas|
+| 27/04    | Semana 7 | Exercícios taxa de variação<br>Regras da derivação (produto,quociente e regra da cadeia)<br>Derivadas de funções usuais<br>População de baterias, crescimento exponenciais<br>Exercísios Derivação|
+| 04/05    | Semana 8 | **Prova 2** <br>Applicação da derivação : Maxima duma função e optimização, teorema do valor médio<br>Regra de l´Hôspital<br>Exercícios esboças de curva |
+| 11/05    | Semana 9 | Técnicas de integração. Primitiva, exemplos em biologia, definição e propriedade da integral definida<br>Metódos de aproximaçao númericas, teorema fundamental do Cálculo<br>Exercício Integração|
+| 18/05    | Semana 10 | Aplicações da integral: Métodos de cálculos (subtitução, integração por parte)<br>Integral indefinida de funções usuais<br>Exercícios Integração<br>|
+| 25/05    | Semana 11 | Aplicações da integração na biofisica (áreas, volumes, trabalho, valor media)<br>Resolução de problemas<br>Equações diferenciais, ordem e condição inicial<br>Campos de direção|
+| 01/06    | Semana 12 | **Prova 3** <br> Equações homogêneas e não homogêneas<br>Método do Euler<br>Resolução exata de equaçao homogênea linear do ordem 1<br>Exercícios Equações Diferenciais |
+| 08/06    | Semana 13 | Equações diferenciais não homogêneas<br>Ativididade no computador : Metodo de Euler<br>Exercísios Equações diferenciais |
+| 15/06    | Semana 14 | Evolução de populações, modelo predatores/presas <br>Resolução de problemas |
+| 22/06    | Semana 15 | **Prova 4**<br>Equações não lineares<br>Equaçoes diferenciais separaveis. Trajétoriais ortogonais, problemas de mistura<br>Exercícios|
+| 29/06    | Semana 16 | Revisões |
+| 06/07    | Semana 17 | Revisões |
+| 13/07    | Semana 18 | **Prova final** |
 
 ### Cálculo da nota final
 
@@ -75,8 +72,8 @@ da composição, teorema dos valores intermediaros<br>Exercícios Continuidade<b
 |------|-------|------|-------|-------------|
 | 1    | 06/04 | escrita | até 10pts      | 1            |
 | 2    | 04/05 | escrita     | até 10pts      | 1            |
-| 3    | 08/06 | escrita     | até 10pts      |  1           |
-| 4    | 29/06 | escrita     | até 10pts      |  1          |
+| 3    | 01/06 | escrita     | até 10pts      |  1           |
+| 4    | 22/06 | escrita     | até 10pts      |  1          |
 | FINAL    | 17/07 | escrita     | até 10pts      |   3          |
 
 exemplo de calcúlo de notas do aluno X : 
