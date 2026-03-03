@@ -11,7 +11,7 @@ Link do grupo Whatsapp : **??**
 - Conhecer os conceitos básicos da matemática utilizados em aréas científicas
 - Traduzir um problema de biología, física ou química para linguagem matemática
 - Compreender um problema e resolvê-lo utilizando os métodos matemáticos adequados
-- Passar da linguagem cotidiana para a linguagem matemática e vice-versa para responder a uma pergunta.
+- Passar da linguagem cotidiana para a linguagem matemática e vice-versa.
 
 ## Ementa
 
@@ -24,6 +24,7 @@ lineares (equações separáveis e exatas).
 
 HORÁRIOS: 
 - Seg 15h - 17h
+- Qua 15h - 17h
 - Qui 10h - 12h
 - Sex 10h - 12h
 
@@ -31,23 +32,23 @@ SALA DE AULA: **??**
 
 ### Notas de aula e códigos
 
-Notas de aula: pasta [aulas](./aulas)\
-Listas de Exercícios: pasta [exercicios](./exercicios)\
-Programas e Notebooks: pasta [notebooks](./notebooks)
+Notas de [Aulas](./aulas)\
+Listas de [Exercicios](./exercicios)\
+[Notebooks](./notebooks) : notebook python para ilustrar exemplos do curso usando programação
 
 ### Critérios de avaliação
-- Durante o semestre, serão realizadas **4 provas avaliativas** (curtas) sendo os 3 melhores notas consideras para a média (soma das 3 melhores notas, dividido por 3).
-- No final do semestre, teriá a Prova Final, de 2 horas.
+- Durante o semestre, serão realizadas **3 provas avaliativas** (curtas) sendo os 2 melhores notas consideras para a média (soma das 2 melhores notas, dividido por 2).
+- No final do semestre, teriá a **Prova Final**, de 2 horas.
 - Estudantes com média menor que 5,0 serão reprovados.
-- No formato avaliatvo proposto, **não há segunda chamada** para as atividades (uma vez que o aluno conta 4 instrumentos avaliativos e ainda poderá excluir a menor nota obtida).
-- Téra uma **segunda chamada apenas para Prova Final**, num formato que será escolido durante o périodo.
+- No formato avaliativo proposto, **não há segunda chamada** para as atividades (uma vez que o aluno conta 3 instrumentos avaliativos e ainda poderá excluir a menor nota obtida).
+- Téra uma **segunda chamada apenas para Prova Final**, para alunos que apresentarem comprovante de ausência durante a primeira chamada.
 - A nota do exame final terá um coeficiente mais elevado do que as atividades de avaliação contínua.
 
 ### Cronograma de Trabalho
 
 | Data | Semana  | Atividades |
 |------|---------|------|
-| 16/03    | Semana 1 | Teste de conhecimento<br>Simbolos e lógica em matematica. Conjuntos de números, operaçãoes e aplicação<br>Exercícios números<br>Definição de funções, Modelos e funções usuais |
+| 16/03    | Semana 1 | Revisões dos conceitos vistos no Ensino Médio (Algrebra, Geometria Analitica, Funções, Trigonometria)<br>Simbolos e lógica em matematica. Conjuntos de números, operaçãoes e aplicação<br>Exercícios números<br>Definição de funções, Modelos e funções usuais |
 | 23/03    | Semana 2 | Exercícios sobre funções<br>Sequências : Notações, equação de diferenças, limite e propriedades do limite|
 | 30/03    | Semana 3 | Exercícios Sequências <br> Teorema do confronto, sequências monotonas, teorema da sequências monotonas|
 | 06/04    | Semana 4 | **Prova 1**<br>Limite de funções,  propriedade dos limites<br>Exercícios Limite |
